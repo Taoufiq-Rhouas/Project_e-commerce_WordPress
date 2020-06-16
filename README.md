@@ -1,4 +1,11 @@
 # Project_e-commerce_WordPress
+# list of installed plugins
+```
+- WooCommerce
+- Weglot Translate
+- Yoast SEO
+- GDRP Cookie Consent
+```
 # Installing
 ## steps to run this project
 ```
